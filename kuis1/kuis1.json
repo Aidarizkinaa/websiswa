@@ -1,0 +1,103 @@
+[{
+    "soal0": {
+        "soal":  "Istilah sel pertama kali dipakai oleh....</>",
+        "a": "a. Anthony van Leeuwenhoek",
+        "b": "b. J. Purkinje",
+        "c": "c. Galileo Galilei",
+        "d": "d. Hans dan Zacharias Jenssen",
+        "e": "e. Robert Hooke",
+        "benar": "e"
+    }
+},{
+    "soal1": {
+        "soal": "Sel terdiri atas tiga bagian utama, yaitu....</>",
+        "a": "a. Membran sel, sitoplasma, dan organel-organel sel",
+        "b": "b. Membran sel, organel-organel sel, inti sel",
+        "c": "c. Membran sel, inti sel, sitoplasma",
+        "d": "d. Sitoplasma, organel-organel sel, organel-organel sel",
+        "e": "e. Sitoplasma, inti sel, anak inti (nukleulus)",
+        "benar": "a"
+    }
+},{
+    "soal2":{
+        "soal": "Pada tubuh makhluk hidup yang terdiri atas banyak sel, sel-sel yang memiliki bentuk sama berkelompok untuk melakukan satu fungsi tertentu disebut....</>",
+        "a": "a. Kumpulan sel",
+        "b": "b. Jaringan",
+        "c": "c. Organ",
+        "d": "d. Individu",
+        "e": "e. Multiseluler",
+        "benar": "b"
+    }
+},{
+    "soal3":{
+        "soal": "Apa pengertian sel dalam arti biologis....</>",
+        "a": "a. Unit organisasi terkecil yang menjadi dasar kehidupan",
+        "b": "b. Bagian terkecil manusia",
+        "c": "c. Kumpulan organel sel",
+        "d": "d. Membentuk DNA mahluk hidup",
+        "e": "e. Bagian dari mahluk hidup",
+        "benar": "a"
+    }
+},{
+    "soal4":{
+        "soal": "Pernyataan bahwa sel hidup berisi cairan sitoplasma untuk segala aktivitas dasar makhluk hidup adalah pernyataan dari....</> ",
+        "a": "a. Robert Hooke",
+        "b": "b. Theodor Schwann",
+        "c": "c. Matthias Schleiden dan Theodor Schwann",
+        "d": "d. Hans dan Zacharias Jenssen",
+        "e": "e. Galileo Galilei",
+        "benar": "c"
+    }
+},{
+    "soal5":{
+        "soal": "Siapakah penemu mikroskop sederhana....</>",
+        "a": "a. Hans dan Zacharias Jenssen",
+        "b": "b. Galileo Galilei",
+        "c": "c. Anthony van Leeuwenhoek",
+        "d": "d. Robert Hooke",
+        "e": "e. Matthias Schleiden dan Theodor Schwann",
+        "benar": "a"
+    }
+},{
+    "soal6":{
+        "soal": "J. Purkinje menemukan suatu zat yang mengalir dalam sel yang disebut....</>",
+        "a": "a. Air",
+        "b": "b. Sitosol",
+        "c": "c. Sitoplasma",
+        "d": "d. Protoplasma",
+        "e": "e. ATP",
+        "benar": "d"
+    }
+},{
+    "soal7":{
+        "soal": "Konsep bahwa sel merupakan kesatuan struktural suatu makhluk hidup dikemukakan oleh....</>",
+        "a": "a. Hans dan Zacharias Jenssen",
+        "b": "b. Galileo Galilei",
+        "c": "c. Anthony van Leeuwenhoek",
+        "d": "d. Robert Hooke",
+        "e": "e. Matthias Schleiden dan Theodor Schwann",
+        "benar": "e"
+    }
+},{
+    "soal8":{
+        "soal": "Max Schultze menyatakan bahwa sel juga merupakan...</>",
+        "a": "a. Satu unit kecil makhluk hidup",
+        "b": "b. Bagian makhluk hidup",
+        "c": "c. Jaringan manusia",
+        "d": "d. Satuan fungsional",
+        "e": "e. Unit yang penting",
+        "benar": "d"
+    }
+},{
+    "soal9":{
+        "soal": "Robert Brown menemukan suatu benda kecil yang berada dalam protoplasma yang kelak dinamakan....</>",
+        "a": "a. Dinding sel",
+        "b": "b. Dinding sel",
+        "c": "c. Organel-organel sel",
+        "d": "d. Protoplasma",
+        "e": "e. Inti sel",
+        "benar": "e"
+    }
+}
+
+]

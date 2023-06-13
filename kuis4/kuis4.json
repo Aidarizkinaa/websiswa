@@ -1,0 +1,103 @@
+[{
+    "soal0": {
+        "soal":	"Organisme yang hanya memiliki satu sel disebut.... </>",
+        "a": "a. Hewan",
+        "b": "b. Tumbuhan",
+        "c": "c. Uniseluler",
+        "d": "d. Multiseluler",
+        "e": "e. Fungi",
+        "benar": "c"
+    }
+},{
+    "soal1": {
+        "soal": "Membran sel disebut juga membran plasma atau selaput plasma terletak di bagian. . .</>",
+        "a": "a. Paling luar sel",
+        "b": "b. Ditengah sel",
+        "c": "c. Di inti sel",
+        "d": "d. Sitoplasma",
+        "e": "e. Ribosom",
+        "benar": "a"
+    }
+},{
+    "soal2":{
+        "soal": "Nukleus dilapisi oleh membran ganda yang disebut dengan. . .</>",
+        "a": "a. Anak inti",
+        "b": "b. Inti sel",
+        "c": "c. Badan se",
+        "d": "d. Nukleulos",
+        "e": "e. Selubung nukleus",
+        "benar": "e"
+    }
+},{
+    "soal3":{
+        "soal":  "Apa yang disebut sebagai kromosom homolog...</> ",
+        "a": "a. Satu kromosom",
+        "b": "b. Kromosom ayah",
+        "c": "c. Kromosom ibu",
+        "d": "d. Kromosom ayah dan ibu",
+        "e": "e. Kumpulan kromosom",
+        "benar": "d"
+    }
+},{
+    "soal4":{
+        "soal": "Energi kimia yang dihasilkan oleh mitokondria disimpan dalam molekul kecil adalah. . .</>",
+        "a": "a. ATP",
+        "b": "b. DNA",
+        "c": "c. RNA",
+        "d": "d. mRNA",
+        "e": "e. Air",
+        "benar": "a"
+    }
+},{
+    "soal5":{
+        "soal": "Respirasi yang memerlukan oksigen adalah... </>",
+        "a": "a. Anaerobik",
+        "b": "b. Udara",
+        "c": "c. Luar",
+        "d": "d. Dalam",
+        "e": "e. Aerobik",
+        "benar": "e"
+    }
+},{
+    "soal6":{
+        "soal": "Organel yang berfungsi sebagai tempat berlangsungnya sintesis protein adalah. . . </>",
+        "a": "a. Dinding sel</>",
+        "b": "b. Inti sel</>",
+        "c": "c. Badan golgi</>",
+        "d": "d. Ribosom</>",
+        "e": "e. Lisosom</>",
+        "benar": "d"
+    }
+},{
+    "soal7":{
+        "soal": "Yang berfungsi untuk membawa informasi genetik dalam bentuk kumpulan tiga basa (disebut kodon) adalah...</>",
+        "a": "a. DNA",
+        "b": "b. RNA",
+        "c": "c. mRNA",
+        "d": "d. tRNA",
+        "e": "e. ATP",
+        "benar": "c"
+    }
+},{
+    "soal8":{
+        "soal": "Rantai ganda protein yang saling bertaut dan tipis, terdiri dari protein yang disebut aktin adalah. . .</>",
+        "a": "a. Pigmen",
+        "b": "b. Mikrofilamen",
+        "c": "c. Kloroplas",
+        "d": "d. Sitoplasma",
+        "e": "e. DNA",
+        "benar": "b"
+    }
+},{
+    "soal9":{
+        "soal": "Plastida yang mengandung pigmen hijau adalah...</>",
+        "a": "a. Alga",
+        "b": "b. Fungi",
+        "c": "c. Mikrofilamen",
+        "d": "d. Aktin",
+        "e": "e. Klorofil",
+        "benar": "e"
+    }
+}
+
+]

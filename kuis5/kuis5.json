@@ -1,0 +1,111 @@
+[{
+    "soal0": {
+        "soal":	"Organel apa yang dimiliki sel tumbuhan tetapi tidak dimiliki sel hewan....</>",
+        "a": "a. Membran sel",
+        "b": "b. Dinding sel",
+        "c": "c. Nukleus",
+        "d": "d. Sitoplasma",
+        "e": "e. Mitokondria",
+        "benar": "b"
+    }
+},
+{
+    "soal1": {
+        "soal": "Organel yang hanya dimiliki sel hewan adalah....</>",
+        "a": "a. Lisosom",
+        "b": "b. Peroksisom",
+        "c": "c. Sentriol",
+        "d": "d. Plastida",
+        "e": "e. Vakoula",
+        "benar": "c"
+    }
+},
+{
+    "soal2":{
+        "soal": "Apa pernyataan yang benar mengenai perbedaan vakoula sel hewan dan sel tumbuhan....</>",
+        "a": "a. Sel hewan banyak, sel tumbuhan sedikit",
+        "b": "b. Sel hewan sedikit atau tidak ada, sel tumbuhan banyak",
+        "c": "c. Sel hewan kecil atau tidak ada, sel tumbuhan ada",
+        "d": "d. Sel hewan ada, sel tumbuhan kecil atau tidak ada",
+        "e": "e. Sel hewan panjang, sel tumbuhan pendek",
+        "benar": "c"
+    }
+},
+{
+    "soal3":{
+        "soal": "Plastida hanya ada pada sel....</>",
+        "a": "a. Hewan",
+        "b": "b. Tumbuhan",
+        "c": "c. Fungi",
+        "d": "d. Mati",
+        "e": "e. Besar",
+        "benar": "b"
+    }
+},
+{
+    "soal4":{
+        "soal": "Vakoula yang berperan dalam menjaga tekanan osmotik sitoplasma adalah....</> ",
+        "a": "a. Vakoula besar",
+        "b": "b. Vakoula kecil",
+        "c": "c. Vakoula kontraktil ",
+        "d": "d. Vakoula nonkontraktil",
+        "e": "e. Vakoula monokotil",
+        "benar": "c"
+    }
+},
+{
+    "soal5":{
+        "soal": "Osmoregulator adalah....</>",
+        "a": "a. Transport sel",
+        "b": "b. Respirasi sel",
+        "c": "c. Mencerna makanan",
+        "d": "d. Osmosis",
+        "e": "e. Difusi",
+        "benar": "c"
+    }
+},
+{
+    "soal6":{
+        "soal": "Dinding sel hanya dimiliki oleh....</>",
+        "a": "a. Sel hewan",
+        "b": "b. Sel tumbuhan",
+        "c": "c. Sel prokariotik",
+        "d": "d. Sel eukariotik",
+        "e": "e. Sel inti",
+        "benar": "b"
+    }
+},
+{
+    "soal7":{
+        "soal": "Di antara pernyataan berikut ini manakah yang salah....</>",
+        "a": "a. Sel tumbuhan memiliki dinding sel, sel hewan tidak",
+        "b": "b. Sel tumbuhan memiliki vakoula, sel hewan tidak punya atau kecil",
+        "c": "c. Sel hewan memiliki plastida, sel tumbuhan tidak",
+        "d": "d. sel hewan memilikisentrosom, sel tumbuhan tidak",
+        "e": "e. sel hewan dan sel tumbuhan memiliki inti sel",
+        "benar": "c"
+    }
+},
+{
+    "soal8":{
+        "soal": "Saat pembelahan sel, tiap-tiap sentriol saling memisahkan diri menuju kutub yang berlawanan dan memancarkan benang-benang gelendong pembelahan yang akan ....",
+        "a": "a. Menjerat kromosom",
+        "b": "b. Mengikat air",
+        "c": "c. Melakukan fotosintesis",
+        "d": "d. Menguap",
+        "e": "e. Membelah diri",
+        "benar": "a"
+    }
+},
+{
+    "soal9":{
+        "a": "a. Sel hewan",
+        "b": "b. Sel tumbuhan",
+        "c": "c. Sel prokariotik",
+        "d": "d. Sel eukariotik",
+        "e": "e. Sel inti",
+        "benar": "a"
+    }
+}
+
+]

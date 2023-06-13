@@ -1,0 +1,103 @@
+[{
+    "soal0": {
+        "soal":	"Sel terdiri atas dua tipe, yaitu sel prokariotik dan sel eukariotik. Perbedaan yang mendasar dari kedua tipe sel tersebut adalah....</>",
+        "a": "a. Ada atau tidaknya inti sel",
+        "b": "b. Ada atau tidaknya membran yang membatasi inti sel",
+        "c": "c. Banyak atau sedikitnya organel sel",
+        "d": "d. Besar atau kecilnya ukuran sel",
+        "e": "e. Panjang atau pendeknya inti sel",
+        "benar": "b"
+    }
+},{
+    "soal1": {
+        "soal": "Sel yang memiliki membran inti disebut sel....</>",
+        "a": "a. Nukleus",
+        "b": "b. Nukleulos",
+        "c": "c. Prokariotik",
+        "d": "d. Eukariotik",
+        "e": "e. Seluler",
+        "benar": "d"
+    }
+},{
+    "soal2":{
+        "soal": "Contoh mahluk hidup prokariotik adalah....</>",
+        "a": "a. Protista",
+        "b": "b. Fungi",
+        "c": "c. Hewan",
+        "d": "d. Tumbuhan",
+        "e": "e. Bakteri",
+        "benar": "e"
+    }
+},{
+    "soal3":{
+        "soal": "Sel prokaryot memiliki DNA pada daerah yang tidak bermembran yang dinamakan....</>",
+        "a": "a. Nukleoid",
+        "b": "b. Seluit",
+        "c": "c. Kromosom",
+        "d": "d. X dan Y",
+        "e": "e. RNA",
+        "benar": "a"
+    }
+},{
+    "soal4":{
+        "soal": "Yang dimiliki sel Eukaryot tapi tidak dimiliki sel prokaryot adalah, kecuali....</> ",
+        "a": "a. Membran Plasma",
+        "b": "b. Retikulum Endoplasma",
+        "c": "c. Badan Golgi",
+        "d": "d. Mitokondria",
+        "e": "e. Lisosom",
+        "benar": "a"
+    }
+},{
+    "soal5":{
+        "soal": "Tipe sel yang paling sederhana dan tidak memiliki membran sel....</>",
+        "a": "a. Nukleus",
+        "b": "b. Nukleulos",
+        "c": "c. Prokariotik",
+        "d": "d. Eukariotik",
+        "e": "e. Seluler",
+        "benar": "c"
+    }
+},{
+    "soal6":{
+        "soal": "Substansi genetik yang terkonsentrasi dalam suatu kumpulan yang disebut nukleoid adalah....</img>",
+       "a": "a. ATP",
+        "b": "b. DNA",
+        "c": "c. RNA",
+        "d": "d. mRNA",
+        "e": "e. Air",
+        "benar": "b"
+    }
+},{
+    "soal7":{
+        "soal": "Sel prokariotik bisa disebut sebagai sel yang tidak memiliki....</>",
+        "a": "a. Inti sel",
+        "b": "b. Dinding sel",
+        "c": "c. Plastida",
+        "d": "d. Membran Inti",
+        "e": "e. Sentrosom",
+        "benar": "d"
+    }
+},{
+    "soal8":{
+        "soal": "Contoh mahluk yang tersusun atas sel prokaryot </>",
+        "a": "a. Hewan",
+        "b": "b. Tumbuhan",
+        "c": "c. Fungi",
+        "d": "d. Protista",
+        "e": "e. Bakteri",
+        "benar": "e"
+    }
+},{
+    "soal9":{
+        "soal": "Yang dimiliki sel eukariotik tapi tidak dimiliki sel prokariotik kecuali....</>",
+        "a": "a. Dinding sel",
+        "b": "b. Membaran Plasma",
+        "c": "c. Ribosom",
+        "d": "d. Vakoula",
+        "e": "e. Visekel",
+        "benar": "d"
+    }
+}
+
+]

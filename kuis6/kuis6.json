@@ -1,0 +1,112 @@
+[{
+    "soal0": {
+        "soal":	"Transpor yang membutuhkan protein membran sebagai channel untuk memasukkan molekul adalah transpor....</>",
+        "a": "a. Difusi pasif",
+        "b": "b. Difusi terfasilitasi",
+        "c": "c. Osmosis",
+        "d": "d. Plasmolisis",
+        "e": "e. Respirasi",
+        "benar": "b"
+    }
+},
+{
+    "soal1": {
+        "soal": "Tidak semua molekul dapat melalui membran sel adalah pengertian dari....</>",
+        "a": "a. Selektif permiabel",
+        "b": "b. Transparan",
+        "c": "c. Metabolisme sel",
+        "d": "d. Respirasi",
+        "e": "e. Difusi",
+        "benar": "a"
+    }
+},
+{
+    "soal2":{
+        "soal": "Protein pada transpor aktif  yang pengeluaran makromolekul yang terbungkus vesikel ke luar sel adalah....</>",
+        "a": "a. Uniporte",
+        "b": "b. Symporter",
+        "c": "c. Suporter",
+        "d": "d. Eksositosis",
+        "e": "e. Endositosis",
+        "benar": "d"
+    }
+},
+{
+    "soal3":{
+        "soal": "Protein yang mentransport satu jenis molekul menuju gradien konsentrasi yang lebih rendah adalah....</>",
+        "a": "a. Uniporte",
+        "b": "b. Symporter",
+        "c": "c. Suporter",
+        "d": "d. Eksositosis",
+        "e": "e. Endositosis",
+        "benar": "a"
+    }
+},
+{
+    "soal4":{
+        "soal": "Difusi suatu pelarut dari kondisi dengan konsentrasi zat pelarutnya tinggi ke larutan dengan konsentrasi zat pelarut rendah adalah pengertian dari....</> ",
+        "a": "a. Transpor pasif",
+        "b": "b. Transpor aktif",
+        "c": "c. Osmosis ",
+        "d": "d. Difusi pasif",
+        "e": "e. Difuasi terfasilitasi",
+        "benar": "c"
+    }
+},
+{
+    "soal5":{
+        "soal": "Proses pengambilan makromolekul yang ada di luar sel untuk dimasukkan ke dalam sel. ....</>",
+        "a": "a. Eksositosis </>",
+        "b": "b. Endositosis</>",
+        "c": "c. Osmosis</>",
+        "d": "d. Difusi</>",
+        "e": "e. Traspor pasif</>",
+        "benar": "b"
+    }
+},
+{
+    "soal6":{
+        "soal": "Pinositosis umumnya terjadi pada, kecuali ....</img>",
+        "a": "a. Sel leukosit",
+        "b": "b. Sel ginjal",
+        "c": "c. epitelium usus",
+        "d": "d. makrofag hati",
+        "e": "e. trombosit",
+        "benar": "e"
+    }
+},
+{
+    "soal7":{
+        "soal": "Beberapa hasil metabolisme seperti asam amino atau glukosa akan melintasi membran, masuk ke dalam ....</>",
+        "a": "a. Sel",
+        "b": "b. Mitokondria",
+        "c": "c. Sitosol",
+        "d": "d. Membran sel",
+        "e": "e. DNA",
+        "benar": "c"
+    }
+},
+{
+    "soal8":{
+        "soal": "Pada proses fagositosis terjadi tonjolan sitoplasma yang disebut</>",
+        "a": "a. Pseudopodia",
+        "b": "b. Ribosom",
+        "c": "c. DNA",
+        "d": "d. mRNA",
+        "e": "e. tRNA",
+        "benar": "a"
+    }
+},
+{
+  "soal9":{
+        "soal": "Invaginasi dalam proses pinosistosis memiliki arti yaitu....</>",
+        "a": "a. Melekuk ke kiri",
+        "b": "b. Melekuk Kekanan",
+        "c": "c. Melekuk ke dalam",
+        "d": "d. Melekuk ke luar",
+        "e": "e. Melekuk ke bawah",
+        "benar": "e"
+    }
+}
+
+]
