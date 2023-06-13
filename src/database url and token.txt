@@ -1,0 +1,5 @@
+database url
+https://skripsi-326ff-default-rtdb.asia-southeast1.firebasedatabase.app/
+
+databse token
+hYa2ougJ7QO697nrSEX9qzld5gDmZsQfNKZYazQU
