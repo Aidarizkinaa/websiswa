@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Pro:ital@1&display=swap');
+
+body{
+	margin: 0; 
+	padding: 0;
+	background-image: url(../img/bg.png); 
+	background-repeat: repeat-y; 
+	background-size: 100vw;
+	font-family: 'Crimson Pro', serif;
+}
+
+ul{
+	list-style-type: none;
+}
+
+a{
+	text-decoration: none;
+}
+
+section{
+	min-width: 100vh; 
+	display: flex; 
+	justify-content: center;
+}
+
+.txt-section{
+	font-size: 23px; 
+	text-align: center; 
+	color: black;
+	width: 50%;
+}
+
+.ops-section{
+	display: flex;
+	justify-content: space-evenly;
+	text-align: center;
+	flex-wrap: wrap;
+}
+
+.card{
+	background-color: #D9E9F3;
+  width: 10em;
+  height: 10em;
+  margin: 40px;
+  text-align: center;
+  font-size: 30px;
+  box-shadow: 0 10px 10px 0 rgba(0,0,0,0.5);
+  transition: 0.3s;
+  border-radius: 8px;	
+	display: grid;
+	justify-content: center;
+	transition: 0.5s;
+}
+
+.card a{
+	color: black;
+	font-size: 30px;
+	display: grid;
+	justify-content: center;
+	transition: 0.7s;
+}
+
+.card a:hover{
+	color: #D9E9F3;
+	transition: 0.7s;
+}
+
+.card img{
+	width: 180px;
+	margin: 20px 0;
+	transition: 0.7s;
+}
+
+.card img:hover{
+	width: 150px;
+	margin: 10px 0 0 0;
+}
+
+.card p{
+	overflow: hidden;
+	font-size: 25px;
+	transition: 0.7;
+	transform: translateY(-20px);
+}
+
+.card p:hover{
+	transition: 0.7;
+}
+
+@media screen and (min-width: 100vh) {
+body {
+  margin: 1em 2em;
+}
+}

@@ -1,0 +1,205 @@
+[{
+    "soal0": {
+        "soal":	"Organisme yang hanya memiliki satu sel disebut....</>",
+        "a": "a. Hewan",
+        "b": "b. Light Tumbuhan",
+        "c": "c. Uniseluler",
+        "d": "d. Multiseluler",
+        "e": "e. Fungi",
+        "benar": "c"
+    }
+},{
+    "soal1": {
+        "soal": "Membran sel disebut juga membran plasma atau selaput plasma terletak di bagian....</>",
+        "a": "a. Paling Luar Sel",
+        "b": "b. Ditengah Sel",
+        "c": "c. Di inti sel",
+        "d": "d. Sitoplasma",
+        "e": "e. Ribosom",
+        "benar": "a"
+    }
+},{
+    "soal2":{
+        "soal": "Nukleus dilapisi oleh membran ganda yang disebut dengan....</>",
+        "a": "a. Anak Inti",
+        "b": "b. Inti Sel",
+        "c": "c. Badan Sel",
+        "d": "d. Nukleulos",
+        "e": "e. Selubung Nukleulos",
+        "benar": "e"
+    }
+},{
+    "soal3":{
+        "soal": "Istilah sel pertama kali dipakai oleh....</>",
+        "a": "a. Anthony van Leeuwenhoek",
+        "b": "b. Galileo Galilei",
+        "c": "c. Hans dan Zacharias Jenssen",
+        "d": "d. Robert Hooke",
+        "e": "e. J. Purkinje",
+        "benar": "d"
+    }
+},{
+    "soal4":{
+        "soal": "Pada tubuh makhluk hidup yang terdiri atas banyak sel, sel-sel yang memiliki bentuk sama berkelompok untuk melakukan satu fungsi tertentu, disebut....</> ",
+        "a": "a. Kumpulan Sel",
+        "b": "b. Jaringan",
+        "c": "c. Organ ",
+        "d": "d. Individu",
+        "e": "e. Multiseluler",
+        "benar": "b"
+    }
+},{
+    "soal5":{
+        "soal": "Teknik yang dapat digunakan untuk meningkatkan kontras adalah....</>",
+        "a": "a. Tehnik Pewarnaan </>",
+        "b": "b. Tehnik Pencerahan</>",
+        "c": "c. Teknik pelabelan dan pewarnaan</>",
+        "d": "d. Tehnik pelabelan dan pencerahan</>",
+        "e": "e. Tehnik pencerahan dan pewarnaan</>",
+        "benar": "c"
+    }
+},{
+    "soal6":{
+        "soal": "Contoh zat pewarna yang biasa digunakan dalam preparat mikroskopis jaringan hewan dan tumbuhan adalah, kecuali....</img>",
+        "a": "a. Safranin",
+        "b": "b. Fast green",
+        "c": "c. Hematoksilin Harris",
+        "d": "d. Layer",
+        "e": "e. Mayer",
+        "benar": "d"
+    }
+},{
+    "soal7":{
+        "soal": "Contoh mahluk hidup prokariotik adalah....</>",
+        "a": "a. Protista",
+        "b": "b. Fungi",
+        "c": "c. Hewan",
+        "d": "d. Tumbuhan",
+        "e": "e. Bakteri",
+        "benar": "e"
+    }
+},{
+    "soal8":{
+        "soal": "Sel prokaryot memiliki DNA pada daerah yang tidak bermembran yang dinamakan</>",
+        "a": "a. Nukleoid",
+        "b": "b. Seluit",
+        "c": "c. Kromosom",
+        "d": "d. X dan Y",
+        "e": "e. RNA",
+        "benar": "a"
+    }
+},{
+    "soal9":{
+        "soal": "Yang dimiliki sel Eukaryot tapi tidak dimiliki sel prokaryot adalah, kecuali....</>",
+        "a": "a. Membran Plasma",
+        "b": "b. Retikulum Endoplasma",
+        "c": "c. Badan Golgi",
+        "d": "d. Mitokondria",
+        "e": "e. Lisosom",
+        "benar": "a"
+    }
+},
+{
+    "soal10": {
+        "soal": "Transpor yang membutuhkan protein membran sebagai channel untuk memasukkan molekul adalah transpor....</>",
+        "a": "a. Difusi pasif",
+        "b": "b. Difusi terfasilitasi",
+        "c": "c. Osmosis",
+        "d": "d. Plasmolisis",
+        "e": "e. Respirasi",
+        "benar": "b"
+    }
+},{
+    "soal11": {
+        "soal": "Tidak semua molekul dapat melalui membran sel adalah pengertian dari....</>",
+        "a": "a. Selektif permiabel",
+        "b": "b. Transparan",
+        "c": "c. Metabolisme sel",
+        "d": "d. Respirasi",
+        "e": "e. Difusi",
+        "benar": "a"
+    }
+},{
+    "soal12":{
+        "soal": "Protein pada transpor aktif  yang pengeluaran makromolekul yang terbungkus vesikel ke luar sel adalah....</>",
+        "a": "a. Uniporte",
+        "b": "b. Symporter",
+        "c": "c. Suporter",
+        "d": "d. Eksositosis",
+        "e": "e. Endositosis",
+        "benar": "d"
+    }
+},{
+    "soal13":{
+        "soal": "Protein yang mentransport satu jenis molekul menuju gradien konsentrasi yang lebih rendah adalah....</>",
+        "a": "a. Uniporte",
+        "b": "b. Symporter",
+        "c": "c. Suporter",
+        "d": "d. Eksositosis",
+        "e": "e. Endositosis",
+        "benar": "a"
+    }
+},{
+    "soal14":{
+        "soal": "Difusi suatu pelarut dari kondisi dengan konsentrasi zat pelarutnya tinggi ke larutan dengan konsentrasi zat pelarut rendah adalah pengertian dari....</> ",
+        "a": "a. Transpor pasif",
+        "b": "b. Transpor aktif",
+        "c": "c. Osmosis ",
+        "d": "d. Difusi pasif",
+        "e": "e. Difuasi terfasilitasi",
+        "benar": "c"
+    }
+},{
+    "soal15":{
+        "soal": "Proses pengambilan makromolekul yang ada di luar sel untuk dimasukkan ke dalam sel. ....</>",
+        "a": "a. Eksositosis </>",
+        "b": "b. Endositosis</>",
+        "c": "c. Osmosis</>",
+        "d": "d. Difusi</>",
+        "e": "e. Traspor pasif</>",
+        "benar": "b"
+    }
+},{
+    "soal16":{
+        "soal": "Pinositosis umumnya terjadi pada, kecuali ....</img>",
+        "a": "a. Sel leukosit",
+        "b": "b. Sel ginjal",
+        "c": "c. epitelium usus",
+        "d": "d. makrofag hati",
+        "e": "e. trombosit",
+        "benar": "e"
+    }
+},{
+    "soal17":{
+        "soal": "Beberapa hasil metabolisme seperti asam amino atau glukosa akan melintasi membran, masuk ke dalam ....</>",
+        "a": "a. Sel",
+        "b": "b. Mitokondria",
+        "c": "c. Sitosol",
+        "d": "d. Membran sel",
+        "e": "e. DNA",
+        "benar": "c"
+    }
+},{
+    "soal18":{
+        "soal": "Pada proses fagositosis terjadi tonjolan sitoplasma yang disebut</>",
+        "a": "a. Pseudopodia",
+        "b": "b. Ribosom",
+        "c": "c. DNA",
+        "d": "d. mRNA",
+        "e": "e. tRNA",
+        "benar": "a"
+    }
+},{
+    "soal19":{
+        "soal": "Invaginasi dalam proses pinosistosis memiliki arti yaitu....</>",
+        "a": "a. Melekuk ke kiri",
+        "b": "b. Melekuk Kekanan",
+        "c": "c. Melekuk ke dalam",
+        "d": "d. Melekuk ke luar",
+        "e": "e. Melekuk ke bawah",
+        "benar": "e"
+    }
+}
+
+
+]
